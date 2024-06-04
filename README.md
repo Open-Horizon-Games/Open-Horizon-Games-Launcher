@@ -17,6 +17,7 @@ The Open Horizon Games Launcher is designed to offer a seamless experience for p
 - **News and Updates**: Stay informed with the latest news and updates from OHG.
 - **Account Management**: Manage your OHG account and game purchases.
 - **Community Integration**: Connect with the OHG community and access forums and support.
+- **Epic Games Login Integration**: Easily log in with your Epic Games account and enjoy exclusive discounts on OHG titles.
 
 ## Development Roadmap
 
@@ -28,6 +29,7 @@ The Open Horizon Games Launcher is designed to offer a seamless experience for p
 - [ ] News and Updates Feed
 - [ ] Account Management System
 - [ ] Community Features
+- [ ] Epic Games Login Integration
 - [ ] Beta Testing
 - [ ] Public Release
 
